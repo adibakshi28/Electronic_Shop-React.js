@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Electronic_Shop/static/css/main.02b972c8.chunk.css",
+    "main.js": "/Electronic_Shop/static/js/main.0609e4f4.chunk.js",
+    "main.js.map": "/Electronic_Shop/static/js/main.0609e4f4.chunk.js.map",
+    "runtime-main.js": "/Electronic_Shop/static/js/runtime-main.51324769.js",
+    "runtime-main.js.map": "/Electronic_Shop/static/js/runtime-main.51324769.js.map",
+    "static/js/2.c85e1a11.chunk.js": "/Electronic_Shop/static/js/2.c85e1a11.chunk.js",
+    "static/js/2.c85e1a11.chunk.js.map": "/Electronic_Shop/static/js/2.c85e1a11.chunk.js.map",
+    "index.html": "/Electronic_Shop/index.html",
+    "static/css/main.02b972c8.chunk.css.map": "/Electronic_Shop/static/css/main.02b972c8.chunk.css.map",
+    "static/js/2.c85e1a11.chunk.js.LICENSE.txt": "/Electronic_Shop/static/js/2.c85e1a11.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51324769.js",
+    "static/js/2.c85e1a11.chunk.js",
+    "static/css/main.02b972c8.chunk.css",
+    "static/js/main.0609e4f4.chunk.js"
+  ]
+}
