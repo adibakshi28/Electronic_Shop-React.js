@@ -22,7 +22,7 @@ Electronic Shop is a lightweight and easy-to-setup template for an online store 
 
 A demo video of the application can be found [here](Demo/ElectronicShop%20Demo.mp4).
 
-You can also view the deployed working version of the web app on GH-pages [here](https://adibakshi28.github.io/Electronic_Shop/).
+You can also view the deployed working version of the web app on GH-pages [here](https://adibakshi28.github.io/Electronic_Shop-React.js/).
 
 ## Features
 
@@ -56,8 +56,8 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/adibakshi28/Electronic_Shop.git
-    cd Electronic_Shop
+    git clone https://github.com/adibakshi28/Electronic_Shop-React.js.git
+    cd Electronic_Shop-React.js
     ```
 
 2. **Install Dependencies**:
@@ -90,7 +90,7 @@ Ensure you have the following installed:
 ## Project Structure
 
 ```bash
-Electronic_Shop/
+Electronic_Shop-React.js/
 ├── build/                  # Production build files
 ├── Demo/                   # Demo video of the application
 │   └── ElectronicShop Demo.mp4
@@ -140,4 +140,4 @@ Contributions are welcome! Please follow these steps to contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-For more information, visit the [repository](https://github.com/adibakshi28/Electronic_Shop).
+For more information, visit the [repository](https://github.com/adibakshi28/Electronic_Shop-React.js).
