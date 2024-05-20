@@ -1,6 +1,6 @@
 # Electronic Shop
 
-**Template for an Online Store built with React and Firebase**
+**An Online Store built with React and Firebase**
 
 ## Table of Contents
 
@@ -21,6 +21,8 @@ Electronic Shop is a lightweight and easy-to-setup template for an online store 
 ## Demo
 
 A demo video of the application can be found [here](Demo/ElectronicShop%20Demo.mp4).
+
+You can also view the deployed working version of the web app on GH-pages [here](https://adibakshi28.github.io/Electronic_Shop/).
 
 ## Features
 
