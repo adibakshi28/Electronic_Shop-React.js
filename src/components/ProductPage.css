@@ -1,0 +1,31 @@
+.singleProductContainerOuter {
+	min-height: calc(100vh - 113px);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.singleProductContainer {
+	max-width: 500px;
+}
+
+.productDescription {
+	max-width: 500px; /* Match the width of the product container */
+	margin-top: 20px; /* Add space between the product display and the description */
+	text-align: justify; /* Justify the text for better readability */
+	padding-left: 50px;
+	font-size: 15px;
+  }
+  
+  /* If you have more details for the product you could add another class */
+  .productDetails {
+	max-width: 500px; /* Match the width of the product container */
+	/* additional styling */
+  }
+
+@media screen and (max-width: 768px) {
+	.singleProductContainerOuter {
+		min-height: calc(100vh - 190px);
+	}
+}
+
