@@ -108,6 +108,7 @@ Electronic_Shop/
 ├── package-lock.json       # Exact versions of dependencies
 ├── package.json            # Project metadata and dependencies
 └── README.md               # This README file
+```
 
 ## Usage
 
